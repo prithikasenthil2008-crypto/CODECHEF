@@ -1,2 +1,9 @@
-# CODECHEF
-actively practice on CodeChef, solving coding problems and taking part in contests. This helps me strengthen my logic, data structures and algorithms, and prepare for technical interviews and placements."
+
+#CODECHEF
+#include <stdio.h>
+int main() {
+    int a, b;
+      scanf("%d %d", &a, &b);
+     printf("Sum is: %d\n", a + b);
+     return 0;
+} 
